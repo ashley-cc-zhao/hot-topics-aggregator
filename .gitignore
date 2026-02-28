@@ -45,6 +45,12 @@ Thumbs.db
 # Test files
 test_*.html
 data/test_*.json
+test_path.txt
+
+# Generated files
+index.html
+data/
+public/
 
 # Logs
 *.log
