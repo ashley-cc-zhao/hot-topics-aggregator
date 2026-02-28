@@ -1,0 +1,62 @@
+name: Aggregate Hot Topics
+
+on:
+  # Run every 12 hours
+  schedule:
+    - cron: '0 */12 * * *'  # At minute 0 past every 12th hour
+
+  # Allow manual triggering
+  workflow_dispatch:
+
+# Required permissions for GitHub Pages deployment
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  aggregate-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: 🔥 Run aggregator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          cd src
+          python main.py
+
+      - name: 📊 List generated files
+        run: |
+          echo "Generated files:"
+          ls -lh index.html data/ 2>/dev/null || true
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          enable_jekyll: false
+          force_orphan: true
+          commit_message: 'Update hot topics report'
+
+      - name: ✅ Deployment complete
+        run: |
+          echo "✨ Deployment completed successfully!"
+          echo "🌐 Your report will be available at:"
+          echo "https://ashley-cc-zhao.github.io/hot-topics-aggregator/"
