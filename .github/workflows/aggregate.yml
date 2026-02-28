@@ -40,17 +40,23 @@ jobs:
           cd src
           python main.py
 
-      - name: 📊 List generated files
+      - name: 📦 Prepare deployment directory
         run: |
-          echo "Generated files:"
-          ls -lh index.html 2>/dev/null || echo "No index.html found"
-          ls -lh data/ 2>/dev/null || echo "No data directory found"
+          # Create a clean directory for deployment
+          mkdir -p public
+
+          # Copy generated files
+          cp index.html public/ 2>/dev/null || echo "Warning: index.html not found"
+          cp -r data public/ 2>/dev/null || echo "Warning: data directory not found"
+
+          echo "Deployment directory contents:"
+          ls -lah public/
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: ./public
           publish_branch: gh-pages
           enable_jekyll: false
           force_orphan: true
