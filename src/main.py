@@ -89,12 +89,14 @@ def main():
     # Save raw data to JSON
     print("\n💾 Saving raw data...")
     try:
-        with open('data/latest_data.json', 'w', encoding='utf-8') as f:
+        # Create data directory in parent (root) if it doesn't exist
+        os.makedirs('../data', exist_ok=True)
+        with open('../data/latest_data.json', 'w', encoding='utf-8') as f:
             json.dump({
                 'timestamp': datetime.utcnow().isoformat(),
                 'data': all_data
             }, f, indent=2, ensure_ascii=False)
-        print("   ✅ Raw data saved to data/latest_data.json")
+        print("   ✅ Raw data saved to ../data/latest_data.json")
     except Exception as e:
         print(f"   ⚠️  Could not save raw data: {str(e)}")
 
@@ -115,7 +117,8 @@ def main():
     # Generate HTML report
     print("\n📄 Generating HTML report...")
     try:
-        output_file = 'index.html'
+        # Output to parent directory (root) for GitHub Pages
+        output_file = '../index.html'
         generate_html_report(all_data, analysis, output_file)
         print(f"   ✅ HTML report generated: {output_file}")
     except Exception as e:
@@ -128,8 +131,8 @@ def main():
     print("=" * 60)
 
 if __name__ == '__main__':
-    # Create data directory if it doesn't exist
-    os.makedirs('data', exist_ok=True)
+    # Create data directory in parent (root) if it doesn't exist
+    os.makedirs('../data', exist_ok=True)
 
     # Run main function
     main()

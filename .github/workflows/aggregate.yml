@@ -43,7 +43,8 @@ jobs:
       - name: 📊 List generated files
         run: |
           echo "Generated files:"
-          ls -lh index.html data/ 2>/dev/null || true
+          ls -lh index.html 2>/dev/null || echo "No index.html found"
+          ls -lh data/ 2>/dev/null || echo "No data directory found"
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
