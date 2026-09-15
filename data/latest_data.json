@@ -1,0 +1,446 @@
+{
+  "timestamp": "2026-09-15T16:01:17.987981",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "score": 691,
+        "num_comments": 796,
+        "created_at": "2026-09-14T17:50:29",
+        "author": "throw0101d",
+        "hn_url": "https://news.ycombinator.com/item?id=49701004"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "score": 667,
+        "num_comments": 290,
+        "created_at": "2026-09-15T06:16:24",
+        "author": "networked",
+        "hn_url": "https://news.ycombinator.com/item?id=49708431"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "score": 501,
+        "num_comments": 83,
+        "created_at": "2026-09-15T12:31:10",
+        "author": "arnemunthekaas",
+        "hn_url": "https://news.ycombinator.com/item?id=49711544"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "score": 465,
+        "num_comments": 561,
+        "created_at": "2026-09-14T17:16:06",
+        "author": "lukaspetersson",
+        "hn_url": "https://news.ycombinator.com/item?id=49700477"
+      },
+      {
+        "source": "Hacker News",
+        "title": "25 Years of Mass Surveillance Is Enough",
+        "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+        "score": 424,
+        "num_comments": 127,
+        "created_at": "2026-09-15T11:26:48",
+        "author": "iamnothere",
+        "hn_url": "https://news.ycombinator.com/item?id=49710883"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Distributed Systems Classics (2017)",
+        "url": "https://nvartolomei.com/dist-sys-classics/",
+        "score": 335,
+        "num_comments": 70,
+        "created_at": "2026-09-14T16:02:01",
+        "author": "grep_it",
+        "hn_url": "https://news.ycombinator.com/item?id=49699158"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+        "score": 332,
+        "num_comments": 319,
+        "created_at": "2026-09-15T10:22:46",
+        "author": "choult",
+        "hn_url": "https://news.ycombinator.com/item?id=49710253"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "score": 317,
+        "num_comments": 99,
+        "created_at": "2026-09-15T04:15:23",
+        "author": "sippingabonedry",
+        "hn_url": "https://news.ycombinator.com/item?id=49707627"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "score": 283,
+        "num_comments": 84,
+        "created_at": "2026-09-14T21:22:54",
+        "author": "thingsilearned",
+        "hn_url": "https://news.ycombinator.com/item?id=49704246"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US confirms for first time it has deployed space weapons",
+        "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+        "score": 248,
+        "num_comments": 158,
+        "created_at": "2026-09-15T03:47:56",
+        "author": "harporoeder",
+        "hn_url": "https://news.ycombinator.com/item?id=49707473"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Java 27 Released",
+        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+        "score": 206,
+        "num_comments": 158,
+        "created_at": "2026-09-15T13:13:43",
+        "author": "mkurz",
+        "hn_url": "https://news.ycombinator.com/item?id=49712041"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CSS-Tricks in Limbo",
+        "url": "https://vale.rocks/micros/20260915-0135",
+        "score": 184,
+        "num_comments": 69,
+        "created_at": "2026-09-15T07:27:46",
+        "author": "edent",
+        "hn_url": "https://news.ycombinator.com/item?id=49708993"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Alternatives to MinIO for single-node local S3",
+        "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+        "score": 160,
+        "num_comments": 71,
+        "created_at": "2026-09-15T08:21:27",
+        "author": "rmoff",
+        "hn_url": "https://news.ycombinator.com/item?id=49709381"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "score": 102,
+        "num_comments": 65,
+        "created_at": "2026-09-15T12:01:31",
+        "author": "myth_drannon",
+        "hn_url": "https://news.ycombinator.com/item?id=49711240"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "url": "https://withcapsule.app/",
+        "score": 98,
+        "num_comments": 51,
+        "created_at": "2026-09-15T13:31:40",
+        "author": "bashtian",
+        "hn_url": "https://news.ycombinator.com/item?id=49712278"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+        "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+        "score": 98,
+        "num_comments": 89,
+        "created_at": "2026-09-15T14:07:01",
+        "author": "kaycebasques",
+        "hn_url": "https://news.ycombinator.com/item?id=49712746"
+      },
+      {
+        "source": "Hacker News",
+        "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+        "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+        "score": 98,
+        "num_comments": 6,
+        "created_at": "2026-09-15T12:08:26",
+        "author": "mdp2021",
+        "hn_url": "https://news.ycombinator.com/item?id=49711309"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
+        "score": 88,
+        "num_comments": 79,
+        "created_at": "2026-09-15T13:25:38",
+        "author": "vrganj",
+        "hn_url": "https://news.ycombinator.com/item?id=49712186"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "url": "https://bkovac.github.io/modem-thing/",
+        "score": 87,
+        "num_comments": 9,
+        "created_at": "2026-09-15T13:20:24",
+        "author": "bobili1234",
+        "hn_url": "https://news.ycombinator.com/item?id=49712102"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The k-server conjecture is true",
+        "url": "https://arxiv.org/abs/2609.15979",
+        "score": 81,
+        "num_comments": 33,
+        "created_at": "2026-09-15T07:45:31",
+        "author": "iamsyr",
+        "hn_url": "https://news.ycombinator.com/item?id=49709129"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is breaking our proxies for expertise",
+        "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+        "score": 55,
+        "num_comments": 25,
+        "created_at": "2026-09-15T13:41:55",
+        "author": "jbkcc",
+        "hn_url": "https://news.ycombinator.com/item?id=49712416"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "published_at": "2026-09-15T15:47:03",
+        "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "author": "Rebecca Bellan"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+        "published_at": "2026-09-15T15:22:48",
+        "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "author": "Dominic-Madori Davis"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "published_at": "2026-09-15T15:00:00",
+        "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "published_at": "2026-09-15T14:42:37",
+        "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "author": "Ivan Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "published_at": "2026-09-15T14:30:00",
+        "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "published_at": "2026-09-15T14:00:00",
+        "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "This doorbell camera lets a human security guard watch your front door",
+        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+        "published_at": "2026-09-15T13:36:45",
+        "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]",
+        "author": "Jennifer Pattison Tuohy"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+        "published_at": "2026-09-15T13:00:00",
+        "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+        "published_at": "2026-09-15T12:10:00",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+        "author": "Thomas Macaulay"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "published_at": "2026-09-15T12:00:00",
+        "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+        "published_at": "2026-09-15T12:00:00",
+        "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+        "author": "Antonio Regalado"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "published_at": "2026-09-15T10:00:00",
+        "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+        "author": "David Rotman"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+        "published_at": "2026-09-15T01:50:48",
+        "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
+        "author": "Connie Loizos"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "published_at": "2026-09-14T22:59:41",
+        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
+        "author": "Hayden Field"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "published_at": "2026-09-14T21:51:02",
+        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "author": "Amanda Silberling"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "published_at": "2026-09-14T21:21:42",
+        "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of […]",
+        "author": "Jay Peters"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+        "published_at": "2026-09-14T21:04:32",
+        "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "published_at": "2026-09-14T20:44:14",
+        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "author": "Amanda Silberling"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+        "published_at": "2026-09-14T20:03:37",
+        "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+        "author": "Jay Peters"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The AI industry has taken a doomer turn. What now?",
+        "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+        "published_at": "2026-09-14T17:54:22",
+        "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+        "author": "Will Douglas Heaven"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "With iOS 27, I’m actually using Siri again",
+        "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+        "published_at": "2026-09-14T17:10:30",
+        "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+        "author": "Ivan Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+        "published_at": "2026-09-14T17:00:00",
+        "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+        "author": "Lauren Forristal"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+        "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+        "published_at": "2026-09-14T16:50:00",
+        "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+        "author": "Matt Burgess"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "published_at": "2026-09-14T16:27:53",
+        "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+        "author": "Russell Brandom"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "Donated livers can be made biologically younger",
+        "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+        "published_at": "2026-09-14T16:11:42",
+        "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing…",
+        "author": "Jessica Hamzelou"
+      }
+    ]
+  }
+}
