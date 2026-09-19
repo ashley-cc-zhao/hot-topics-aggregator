@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Hot Topics - 2026-09-19 15:09 UTC</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .timestamp {
+            opacity: 0.9;
+            font-size: 0.9em;
+        }
+
+        .summary-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .summary-section h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .trends {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .trend-tag {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .content-section {
+            padding: 30px;
+        }
+
+        .source-group {
+            margin-bottom: 40px;
+        }
+
+        .source-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .source-icon {
+            width: 40px;
+            height: 40px;
+            margin-right: 15px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+        }
+
+        .reddit-icon { background: #FF4500; }
+        .hn-icon { background: #FF6600; }
+        .youtube-icon { background: #FF0000; }
+        .rss-icon { background: #FFA500; }
+
+        .source-header h3 {
+            color: #333;
+            font-size: 1.5em;
+        }
+
+        .items-grid {
+            display: grid;
+            gap: 15px;
+        }
+
+        .item-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .item-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .item-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .item-title a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        .item-title a:hover {
+            color: #667eea;
+        }
+
+        .item-meta {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        .meta-badge {
+            background: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-weight: 500;
+        }
+
+        .score { color: #FF4500; }
+        .views { color: #FF0000; }
+        .comments { color: #4CAF50; }
+
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .stat-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔥 Tech Hot Topics Aggregator</h1>
+            <p class="timestamp">Last Updated: 2026-09-19 15:09 UTC</p>
+        </header>
+
+        <div class="summary-section">
+            <h2>📊 AI Analysis Summary</h2>
+            <p>Analysis temporarily unavailable</p>
+
+            <h3 style="margin-top: 25px; color: #667eea;">🎯 Top Trending Topics</h3>
+            <div class="trends">
+            </div>
+        </div>
+
+        <div class="summary-section">
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="stat-number">0</div>
+                    <div class="stat-label">Reddit Posts</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">18</div>
+                    <div class="stat-label">HN Stories</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">0</div>
+                    <div class="stat-label">YouTube Videos</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">28</div>
+                    <div class="stat-label">RSS Articles</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-section">
+            <div class="source-group">
+                <div class="source-header">
+                    <div class="source-icon hn-icon">Y</div>
+                    <h3>Hacker News Top Stories</h3>
+                </div>
+                <div class="items-grid">
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://grapheneos.social/@GrapheneOS/117282080803799576" target="_blank">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 947 points</span>
+                            <span class="meta-badge comments">💬 518 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49758736" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://code.claude.com/docs/en/changelog" target="_blank">Claude Code now reads AGENTS.md if there is no Claude.md</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 691 points</span>
+                            <span class="meta-badge comments">💬 254 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49760187" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html" target="_blank">AI-generated posters don’t have to be horrible</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 599 points</span>
+                            <span class="meta-badge comments">💬 361 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49764791" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html" target="_blank">Human brain is two separate organs, Stanford Medicine-led research finds</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 434 points</span>
+                            <span class="meta-badge comments">💬 162 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49763697" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/" target="_blank">Saving another 100TB of RAM</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 404 points</span>
+                            <span class="meta-badge comments">💬 87 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49758580" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://laya.convaiinnovations.com/" target="_blank">Laya the open source version of Jev</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 354 points</span>
+                            <span class="meta-badge comments">💬 72 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49765348" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://onionfutures.com/" target="_blank">San Francisco Onion Futures Company</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 273 points</span>
+                            <span class="meta-badge comments">💬 91 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49763296" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio" target="_blank">GPT-6 Astra Solves a WWI German Radio Cipher</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 221 points</span>
+                            <span class="meta-badge comments">💬 120 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49763987" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/" target="_blank">Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 207 points</span>
+                            <span class="meta-badge comments">💬 78 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49757050" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" target="_blank">If math is more than proof, we need to better celebrate the rest of it</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 206 points</span>
+                            <span class="meta-badge comments">💬 166 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49763928" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://spectrum.ieee.org/llms-for-chip-design" target="_blank">How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 167 points</span>
+                            <span class="meta-badge comments">💬 115 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49761432" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes" target="_blank">Xcode 27.1 Beta Release Notes</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 145 points</span>
+                            <span class="meta-badge comments">💬 105 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49758419" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://jepedersen.dk/blog/202505_research/" target="_blank">Science Is Open Software</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 126 points</span>
+                            <span class="meta-badge comments">💬 46 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49762687" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/" target="_blank">Two parallel neural ectoderm progenitors contribute to the developing brain</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 121 points</span>
+                            <span class="meta-badge comments">💬 66 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49755533" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://github.com/browserbase/stagehand" target="_blank">We made Playwright 2x faster and 80% more token efficient</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 110 points</span>
+                            <span class="meta-badge comments">💬 27 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49756671" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://sdcc.sourceforge.net/" target="_blank">SDCC – Small Device C Compiler</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 107 points</span>
+                            <span class="meta-badge comments">💬 22 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49762744" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://arxiv.org/abs/2510.03215" target="_blank">Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 100 points</span>
+                            <span class="meta-badge comments">💬 18 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49758615" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/" target="_blank">What Zig felt like, coming from Rust</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge score">▲ 50 points</span>
+                            <span class="meta-badge comments">💬 28 comments</span>
+                            <span class="meta-badge"><a href="https://news.ycombinator.com/item?id=49766637" target="_blank">HN Discussion</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="source-group">
+                <div class="source-header">
+                    <div class="source-icon rss-icon">📰</div>
+                    <h3>Tech News from RSS Feeds</h3>
+                </div>
+                <div class="items-grid">
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/" target="_blank">AI safety conversations have gotten unbelievable</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Julie Bort</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition" target="_blank">Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Nilay Patel</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over" target="_blank">The AI regulation smackdown isn’t over</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Hayden Field</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/" target="_blank">Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Lucas Ropek</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/" target="_blank">Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">Wired AI</span>
+                            <span class="meta-badge">✍ Matt Burgess, Lily Hay Newman</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.wired.com/story/mathematicians-cant-quit-ai/" target="_blank">Mathematicians Hate AI. They Can’t Quit It</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">Wired AI</span>
+                            <span class="meta-badge">✍ Isabella Ward</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/" target="_blank">Join the WIRED World Fair in Miami on November 4</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">Wired AI</span>
+                            <span class="meta-badge">✍ WIRED Staff</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" target="_blank">India forces caller-ID apps to feed spam reports to telcos</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Jagmeet Singh</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/" target="_blank">Tilly Norwood’s press tour is going about as well as you’d expect for an AI</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Amanda Silberling</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/" target="_blank">A startup that builds other startups raised $100M and is all-in on physical AI</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Kirsten Korosec</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/" target="_blank">Anthropic is operating a lab that conducts biology experiments</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Julie Bort</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/" target="_blank">AI hallucination nearly triggers US military operation</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Aditya Mehta</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/" target="_blank">Anthropic’s first embedded evaluator is … Accenture?</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Tim Fernholz</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero" target="_blank">OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Terrence O’Brien</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/" target="_blank">World model companies are keeping a lot of secrets</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Russell Brandom</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/" target="_blank">Here’s How an AI Slowdown Could Actually Be Enforced</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">Wired AI</span>
+                            <span class="meta-badge">✍ Will Knight</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/" target="_blank">A new kind of AI model from a ChatGPT inventor is thrilling developers</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Tim Fernholz</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force" target="_blank">Virginia governor creates an AI task force and moves to restrain data centers</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Lauren Feiner</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/" target="_blank">Disney’s first CTO led an AI startup it once accused of copying its characters</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Lucas Ropek</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/" target="_blank">Google’s new ‘CC’ is an AI agent that helps families run their households</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Sarah Perez</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/" target="_blank">Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Theresa Loconsolo</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/" target="_blank">Automattic’s 33-Hour Coup, and can AI labs police themselves?</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch" target="_blank">Gavin Newsom is pushing for an AI kill switch</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Lauren Feiner</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/" target="_blank">Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">TechCrunch AI</span>
+                            <span class="meta-badge">✍ Ram Iyer</span>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <div class="item-title">
+                            <a href="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings" target="_blank">What Hollywood thinks about existential AI warnings</a>
+                        </div>
+                        <div class="item-meta">
+                            <span class="meta-badge">The Verge AI</span>
+                            <span class="meta-badge">✍ Charles Pulliam-Moore</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>🤖 Powered by GitHub Actions + Google Gemini AI</p>
+            <p>Auto-updated every 12 hours</p>
+        </footer>
+    </div>
+</body>
+</html>

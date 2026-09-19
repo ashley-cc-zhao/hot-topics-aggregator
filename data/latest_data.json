@@ -1,0 +1,443 @@
+{
+  "timestamp": "2026-09-19T15:09:37.731561",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "score": 947,
+        "num_comments": 518,
+        "created_at": "2026-09-18T19:03:09",
+        "author": "theanonymousone",
+        "hn_url": "https://news.ycombinator.com/item?id=49758736"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "url": "https://code.claude.com/docs/en/changelog",
+        "score": 691,
+        "num_comments": 254,
+        "created_at": "2026-09-18T21:00:32",
+        "author": "datadrivenangel",
+        "hn_url": "https://news.ycombinator.com/item?id=49760187"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "score": 599,
+        "num_comments": 361,
+        "created_at": "2026-09-19T09:20:58",
+        "author": "ereiamjh",
+        "hn_url": "https://news.ycombinator.com/item?id=49764791"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "score": 434,
+        "num_comments": 162,
+        "created_at": "2026-09-19T05:48:50",
+        "author": "emigre",
+        "hn_url": "https://news.ycombinator.com/item?id=49763697"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "score": 404,
+        "num_comments": 87,
+        "created_at": "2026-09-18T18:51:46",
+        "author": "f311a",
+        "hn_url": "https://news.ycombinator.com/item?id=49758580"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Laya the open source version of Jev",
+        "url": "https://laya.convaiinnovations.com/",
+        "score": 354,
+        "num_comments": 72,
+        "created_at": "2026-09-19T10:46:58",
+        "author": "nandakishor_ml",
+        "hn_url": "https://news.ycombinator.com/item?id=49765348"
+      },
+      {
+        "source": "Hacker News",
+        "title": "San Francisco Onion Futures Company",
+        "url": "https://onionfutures.com/",
+        "score": 273,
+        "num_comments": 91,
+        "created_at": "2026-09-19T04:23:30",
+        "author": "z-mach9",
+        "hn_url": "https://news.ycombinator.com/item?id=49763296"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "score": 221,
+        "num_comments": 120,
+        "created_at": "2026-09-19T06:41:44",
+        "author": "nsoonhui",
+        "hn_url": "https://news.ycombinator.com/item?id=49763987"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+        "score": 207,
+        "num_comments": 78,
+        "created_at": "2026-09-18T16:54:18",
+        "author": "synack",
+        "hn_url": "https://news.ycombinator.com/item?id=49757050"
+      },
+      {
+        "source": "Hacker News",
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "score": 206,
+        "num_comments": 166,
+        "created_at": "2026-09-19T06:28:02",
+        "author": "num42",
+        "hn_url": "https://news.ycombinator.com/item?id=49763928"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "score": 167,
+        "num_comments": 115,
+        "created_at": "2026-09-18T23:04:17",
+        "author": "maxall4",
+        "hn_url": "https://news.ycombinator.com/item?id=49761432"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Xcode 27.1 Beta Release Notes",
+        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+        "score": 145,
+        "num_comments": 105,
+        "created_at": "2026-09-18T18:39:31",
+        "author": "CameronBanga",
+        "hn_url": "https://news.ycombinator.com/item?id=49758419"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Science Is Open Software",
+        "url": "https://jepedersen.dk/blog/202505_research/",
+        "score": 126,
+        "num_comments": 46,
+        "created_at": "2026-09-19T02:21:35",
+        "author": "jegp",
+        "hn_url": "https://news.ycombinator.com/item?id=49762687"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+        "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+        "score": 121,
+        "num_comments": 66,
+        "created_at": "2026-09-18T15:12:07",
+        "author": "Jimmc414",
+        "hn_url": "https://news.ycombinator.com/item?id=49755533"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We made Playwright 2x faster and 80% more token efficient",
+        "url": "https://github.com/browserbase/stagehand",
+        "score": 110,
+        "num_comments": 27,
+        "created_at": "2026-09-18T16:25:23",
+        "author": "wittydeveloper",
+        "hn_url": "https://news.ycombinator.com/item?id=49756671"
+      },
+      {
+        "source": "Hacker News",
+        "title": "SDCC – Small Device C Compiler",
+        "url": "https://sdcc.sourceforge.net/",
+        "score": 107,
+        "num_comments": 22,
+        "created_at": "2026-09-19T02:32:36",
+        "author": "lioeters",
+        "hn_url": "https://news.ycombinator.com/item?id=49762744"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+        "url": "https://arxiv.org/abs/2510.03215",
+        "score": 100,
+        "num_comments": 18,
+        "created_at": "2026-09-18T18:55:35",
+        "author": "rochansinha",
+        "hn_url": "https://news.ycombinator.com/item?id=49758615"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What Zig felt like, coming from Rust",
+        "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "score": 50,
+        "num_comments": 28,
+        "created_at": "2026-09-19T13:55:18",
+        "author": "ksec",
+        "hn_url": "https://news.ycombinator.com/item?id=49766637"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "AI safety conversations have gotten unbelievable",
+        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+        "published_at": "2026-09-19T15:00:00",
+        "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+        "published_at": "2026-09-19T14:00:00",
+        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]",
+        "author": "Nilay Patel"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "The AI regulation smackdown isn’t over",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "published_at": "2026-09-19T13:00:00",
+        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]",
+        "author": "Hayden Field"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+        "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+        "published_at": "2026-09-19T13:00:00",
+        "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+        "author": "Lucas Ropek"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+        "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+        "published_at": "2026-09-19T11:00:00",
+        "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+        "author": "Matt Burgess, Lily Hay Newman"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Mathematicians Hate AI. They Can’t Quit It",
+        "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+        "published_at": "2026-09-19T10:00:00",
+        "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+        "author": "Isabella Ward"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Join the WIRED World Fair in Miami on November 4",
+        "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+        "published_at": "2026-09-19T09:00:00",
+        "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+        "author": "WIRED Staff"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "published_at": "2026-09-19T01:00:00",
+        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "author": "Jagmeet Singh"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "published_at": "2026-09-19T00:12:07",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "author": "Amanda Silberling"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "published_at": "2026-09-18T23:25:01",
+        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "author": "Kirsten Korosec"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "published_at": "2026-09-18T23:13:31",
+        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "AI hallucination nearly triggers US military operation",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "published_at": "2026-09-18T23:12:32",
+        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "author": "Aditya Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "published_at": "2026-09-18T21:44:33",
+        "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "published_at": "2026-09-18T21:07:24",
+        "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+        "author": "Terrence O’Brien"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "World model companies are keeping a lot of secrets",
+        "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "published_at": "2026-09-18T20:18:14",
+        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "author": "Russell Brandom"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+        "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+        "published_at": "2026-09-18T19:21:09",
+        "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+        "author": "Will Knight"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "published_at": "2026-09-18T18:49:30",
+        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+        "published_at": "2026-09-18T18:29:17",
+        "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
+        "author": "Lauren Feiner"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "published_at": "2026-09-18T17:59:53",
+        "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+        "author": "Lucas Ropek"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "published_at": "2026-09-18T17:33:50",
+        "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+        "author": "Sarah Perez"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+        "published_at": "2026-09-18T17:09:56",
+        "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  Watch […]",
+        "author": "Theresa Loconsolo"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+        "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+        "published_at": "2026-09-18T17:06:32",
+        "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  On […]",
+        "author": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "published_at": "2026-09-18T17:04:51",
+        "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to […]",
+        "author": "Lauren Feiner"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+        "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+        "published_at": "2026-09-18T16:35:49",
+        "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+        "author": "Ram Iyer"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "What Hollywood thinks about existential AI warnings",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "published_at": "2026-09-18T16:35:19",
+        "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]",
+        "author": "Charles Pulliam-Moore"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Security researchers used Claude to help them hack into OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "published_at": "2026-09-18T15:30:16",
+        "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+        "published_at": "2026-09-18T15:30:00",
+        "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+        "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+        "published_at": "2026-09-18T15:22:48",
+        "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+        "author": "Sarah Perez"
+      }
+    ]
+  }
+}
