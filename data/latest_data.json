@@ -1,0 +1,351 @@
+{
+  "timestamp": "2026-10-03T15:32:37.369477",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Apple Pass Designer",
+        "url": "https://developer.apple.com/pass-designer/",
+        "score": 493,
+        "num_comments": 299,
+        "created_at": "2026-10-02T19:06:56",
+        "author": "soheilpro",
+        "hn_url": "https://news.ycombinator.com/item?id=49937276"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Extra Big Ass Intelligence",
+        "url": "https://www.extrabigassintelligence.com/",
+        "score": 387,
+        "num_comments": 85,
+        "created_at": "2026-10-03T03:19:10",
+        "author": "34679",
+        "hn_url": "https://news.ycombinator.com/item?id=49941114"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "url": "https://www.newgrounds.com/",
+        "score": 349,
+        "num_comments": 96,
+        "created_at": "2026-10-03T00:55:25",
+        "author": "azhenley",
+        "hn_url": "https://news.ycombinator.com/item?id=49940394"
+      },
+      {
+        "source": "Hacker News",
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "url": "https://dwarfstar.sh/",
+        "score": 296,
+        "num_comments": 89,
+        "created_at": "2026-10-02T18:01:16",
+        "author": "fibo",
+        "hn_url": "https://news.ycombinator.com/item?id=49936575"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Updates to Full Disk Access in macOS",
+        "url": "https://developer.apple.com/news/?id=p6zjojqw",
+        "score": 245,
+        "num_comments": 166,
+        "created_at": "2026-10-02T19:37:01",
+        "author": "notfirstpost",
+        "hn_url": "https://news.ycombinator.com/item?id=49937631"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Muse Gadgets",
+        "url": "https://gadgets.muse.ai",
+        "score": 218,
+        "num_comments": 98,
+        "created_at": "2026-10-02T19:26:54",
+        "author": "anant",
+        "hn_url": "https://news.ycombinator.com/item?id=49937504"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Germany's new sovereign AI model Kolibri",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "score": 203,
+        "num_comments": 103,
+        "created_at": "2026-10-03T10:43:51",
+        "author": "tejaskumar__",
+        "hn_url": "https://news.ycombinator.com/item?id=49943034"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare OHTTP gateway",
+        "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+        "score": 136,
+        "num_comments": 57,
+        "created_at": "2026-10-03T03:15:05",
+        "author": "est",
+        "hn_url": "https://news.ycombinator.com/item?id=49941091"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "score": 131,
+        "num_comments": 23,
+        "created_at": "2026-10-03T09:36:04",
+        "author": "bastitx",
+        "hn_url": "https://news.ycombinator.com/item?id=49942706"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An Update on Orion for Linux and Windows",
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "score": 129,
+        "num_comments": 65,
+        "created_at": "2026-10-03T04:53:57",
+        "author": "pentagrama",
+        "hn_url": "https://news.ycombinator.com/item?id=49941447"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Make Tmux the OS",
+        "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+        "score": 126,
+        "num_comments": 65,
+        "created_at": "2026-10-02T19:29:07",
+        "author": "weaksauce",
+        "hn_url": "https://news.ycombinator.com/item?id=49937540"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "score": 126,
+        "num_comments": 47,
+        "created_at": "2026-10-02T20:00:15",
+        "author": "antelocnova",
+        "hn_url": "https://news.ycombinator.com/item?id=49937916"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Escalation of War in Ethiopia",
+        "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+        "score": 103,
+        "num_comments": 86,
+        "created_at": "2026-10-03T11:54:24",
+        "author": "mooreds",
+        "hn_url": "https://news.ycombinator.com/item?id=49943451"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Barcodes are about to go extinct",
+        "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+        "score": 79,
+        "num_comments": 117,
+        "created_at": "2026-10-02T20:37:07",
+        "author": "rmason",
+        "hn_url": "https://news.ycombinator.com/item?id=49938306"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GitHub's new dashboard experience now the default",
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "score": 61,
+        "num_comments": 76,
+        "created_at": "2026-10-03T09:59:01",
+        "author": "vanyauhalin",
+        "hn_url": "https://news.ycombinator.com/item?id=49942818"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Nintendo 64 Partner-N64 Development Kit",
+        "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+        "score": 58,
+        "num_comments": 14,
+        "created_at": "2026-10-02T18:53:34",
+        "author": "paulgerhardt",
+        "hn_url": "https://news.ycombinator.com/item?id=49937146"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+        "published_at": "2026-10-03T15:00:00",
+        "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
+        "author": "Terrence O’Brien"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "published_at": "2026-10-03T14:31:56",
+        "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+        "author": "Terrence O’Brien"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "published_at": "2026-10-03T14:00:00",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "author": "Lauren Forristal"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+        "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+        "published_at": "2026-10-03T12:00:00",
+        "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+        "author": "Lily Hay Newman, Matt Burgess"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "published_at": "2026-10-03T00:45:39",
+        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "author": "Kirsten Korosec"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "published_at": "2026-10-02T23:03:16",
+        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "published_at": "2026-10-02T21:09:14",
+        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "author": "Connie Loizos"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "published_at": "2026-10-02T21:08:37",
+        "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+        "author": "Jay Peters"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "published_at": "2026-10-02T20:08:40",
+        "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "published_at": "2026-10-02T19:15:51",
+        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "published_at": "2026-10-02T18:11:27",
+        "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+        "author": "Sarah Perez"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "published_at": "2026-10-02T18:00:00",
+        "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]",
+        "author": "Allison Johnson"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+        "published_at": "2026-10-02T17:56:00",
+        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+        "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "published_at": "2026-10-02T17:48:16",
+        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+        "author": "Theresa Loconsolo"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Breaking up (with Elon Musk) is hard to do",
+        "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+        "published_at": "2026-10-02T17:37:36",
+        "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted […]",
+        "author": "Elizabeth Lopatto"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "published_at": "2026-10-02T17:32:05",
+        "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "published_at": "2026-10-02T17:00:00",
+        "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+        "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+        "published_at": "2026-10-02T16:00:00",
+        "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+        "author": "Will Knight"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "published_at": "2026-10-02T15:49:04",
+        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+        "author": "MIT Technology Review Insights"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "published_at": "2026-10-02T15:39:41",
+        "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+        "author": "Russell Brandom"
+      }
+    ]
+  }
+}
