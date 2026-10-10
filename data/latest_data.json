@@ -1,0 +1,316 @@
+{
+  "timestamp": "2026-10-10T16:45:12.470653",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "score": 633,
+        "num_comments": 341,
+        "created_at": "2026-10-09T21:06:59",
+        "author": "gumby",
+        "hn_url": "https://news.ycombinator.com/item?id=50026555"
+      },
+      {
+        "source": "Hacker News",
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "score": 579,
+        "num_comments": 252,
+        "created_at": "2026-10-10T00:37:07",
+        "author": "modinfo",
+        "hn_url": "https://news.ycombinator.com/item?id=50028275"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "url": "https://typesafe.ai/blog/series-ai",
+        "score": 413,
+        "num_comments": 333,
+        "created_at": "2026-10-09T17:02:31",
+        "author": "tosh",
+        "hn_url": "https://news.ycombinator.com/item?id=50023450"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Lobbying is corruption",
+        "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+        "score": 408,
+        "num_comments": 199,
+        "created_at": "2026-10-10T13:05:58",
+        "author": "LucidLynx",
+        "hn_url": "https://news.ycombinator.com/item?id=50032556"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "url": "https://carrierexplode.com/",
+        "score": 381,
+        "num_comments": 45,
+        "created_at": "2026-10-09T18:10:55",
+        "author": "simplyalec",
+        "hn_url": "https://news.ycombinator.com/item?id=50024499"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "score": 314,
+        "num_comments": 159,
+        "created_at": "2026-10-10T03:02:47",
+        "author": "g-b-r",
+        "hn_url": "https://news.ycombinator.com/item?id=50029123"
+      },
+      {
+        "source": "Hacker News",
+        "title": "`123456' password used in Danish CPR data breach",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+        "score": 306,
+        "num_comments": 170,
+        "created_at": "2026-10-10T09:51:49",
+        "author": "baal80spam",
+        "hn_url": "https://news.ycombinator.com/item?id=50031269"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+        "score": 168,
+        "num_comments": 44,
+        "created_at": "2026-10-09T17:42:12",
+        "author": "matt_d",
+        "hn_url": "https://news.ycombinator.com/item?id=50024090"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Computers Cannot Make Decisions",
+        "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+        "score": 168,
+        "num_comments": 141,
+        "created_at": "2026-10-10T05:47:46",
+        "author": "heavensteeth",
+        "hn_url": "https://news.ycombinator.com/item?id=50029982"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bitwarden Dual License Model",
+        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+        "score": 160,
+        "num_comments": 103,
+        "created_at": "2026-10-10T14:32:50",
+        "author": "Cider9986",
+        "hn_url": "https://news.ycombinator.com/item?id=50033407"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: The rarest tech books and docs you've probably never read",
+        "url": "https://readrare.com/",
+        "score": 154,
+        "num_comments": 59,
+        "created_at": "2026-10-09T17:39:44",
+        "author": "miletus",
+        "hn_url": "https://news.ycombinator.com/item?id=50024055"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "score": 142,
+        "num_comments": 72,
+        "created_at": "2026-10-10T10:52:09",
+        "author": "rociiu",
+        "hn_url": "https://news.ycombinator.com/item?id=50031614"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple/macOS silently removed from official Unix registry",
+        "url": "https://www.opengroup.org//openbrand/register/",
+        "score": 135,
+        "num_comments": 139,
+        "created_at": "2026-10-10T10:57:31",
+        "author": "john_alan",
+        "hn_url": "https://news.ycombinator.com/item?id=50031653"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+        "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+        "score": 132,
+        "num_comments": 31,
+        "created_at": "2026-10-09T23:53:08",
+        "author": "luu",
+        "hn_url": "https://news.ycombinator.com/item?id=50028027"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Compiling Rust to readable C with Eurydice",
+        "url": "https://lwn.net/Articles/1055211/",
+        "score": 119,
+        "num_comments": 33,
+        "created_at": "2026-10-09T23:28:36",
+        "author": "peter_d_sherman",
+        "hn_url": "https://news.ycombinator.com/item?id=50027853"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Food processing influences metabolism and brain activity",
+        "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+        "score": 82,
+        "num_comments": 70,
+        "created_at": "2026-10-10T05:22:30",
+        "author": "gmays",
+        "hn_url": "https://news.ycombinator.com/item?id=50029830"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I would like the value of my home to rise, while my property taxes fall",
+        "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+        "score": 75,
+        "num_comments": 148,
+        "created_at": "2026-10-10T13:29:03",
+        "author": "colinprince",
+        "hn_url": "https://news.ycombinator.com/item?id=50032758"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+        "published_at": "2026-10-10T15:00:00",
+        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "published_at": "2026-10-10T14:41:16",
+        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+        "author": "Terrence O’Brien"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "published_at": "2026-10-10T14:00:00",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "author": "Lauren Forristal"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "published_at": "2026-10-10T13:00:00",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+        "author": "Hayden Field"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+        "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+        "published_at": "2026-10-10T12:00:00",
+        "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+        "author": "Lily Hay Newman, Matt Burgess"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "published_at": "2026-10-10T00:18:32",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "published_at": "2026-10-09T21:41:29",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "author": "Marina Temkin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "published_at": "2026-10-09T21:15:38",
+        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "published_at": "2026-10-09T19:36:56",
+        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "author": "Amanda Silberling"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+        "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+        "published_at": "2026-10-09T19:28:49",
+        "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+        "author": "Adam Morgan"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "published_at": "2026-10-09T19:09:44",
+        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]",
+        "author": "Robert Hart"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+        "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+        "published_at": "2026-10-09T18:54:52",
+        "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+        "author": "Scharon Harding"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "published_at": "2026-10-09T18:06:57",
+        "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "published_at": "2026-10-09T16:56:42",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+        "author": "Theresa Loconsolo"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+        "published_at": "2026-10-09T16:53:02",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+        "author": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane"
+      }
+    ]
+  }
+}
