@@ -1,0 +1,318 @@
+{
+  "timestamp": "2026-10-17T14:46:54.217866",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "score": 944,
+        "num_comments": 342,
+        "created_at": "2026-10-16T18:55:59",
+        "author": "ahlCVA",
+        "hn_url": "https://news.ycombinator.com/item?id=50122800"
+      },
+      {
+        "source": "Hacker News",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "score": 552,
+        "num_comments": 488,
+        "created_at": "2026-10-16T17:08:38",
+        "author": "speckx",
+        "hn_url": "https://news.ycombinator.com/item?id=50121179"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How the Claude Code team does code review",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "score": 411,
+        "num_comments": 386,
+        "created_at": "2026-10-16T19:04:47",
+        "author": "pretext",
+        "hn_url": "https://news.ycombinator.com/item?id=50122951"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "score": 403,
+        "num_comments": 187,
+        "created_at": "2026-10-17T08:37:46",
+        "author": "theanonymousone",
+        "hn_url": "https://news.ycombinator.com/item?id=50129121"
+      },
+      {
+        "source": "Hacker News",
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "score": 375,
+        "num_comments": 86,
+        "created_at": "2026-10-16T19:01:17",
+        "author": "speckx",
+        "hn_url": "https://news.ycombinator.com/item?id=50122878"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "score": 325,
+        "num_comments": 78,
+        "created_at": "2026-10-16T18:32:35",
+        "author": "Anon84",
+        "hn_url": "https://news.ycombinator.com/item?id=50122431"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Butlerian Jihad",
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "score": 314,
+        "num_comments": 182,
+        "created_at": "2026-10-17T02:21:08",
+        "author": "wetwater",
+        "hn_url": "https://news.ycombinator.com/item?id=50127274"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 302,
+        "num_comments": 117,
+        "created_at": "2026-10-17T08:21:25",
+        "author": "theykk",
+        "hn_url": "https://news.ycombinator.com/item?id=50129045"
+      },
+      {
+        "source": "Hacker News",
+        "title": "JPEG XL vs. AVIF for web use-cases",
+        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "score": 293,
+        "num_comments": 192,
+        "created_at": "2026-10-16T16:12:02",
+        "author": "farlight",
+        "hn_url": "https://news.ycombinator.com/item?id=50120224"
+      },
+      {
+        "source": "Hacker News",
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "score": 243,
+        "num_comments": 219,
+        "created_at": "2026-10-16T18:06:17",
+        "author": "7402",
+        "hn_url": "https://news.ycombinator.com/item?id=50122034"
+      },
+      {
+        "source": "Hacker News",
+        "title": "FLUX 3 Image Klein",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "score": 186,
+        "num_comments": 53,
+        "created_at": "2026-10-16T19:47:13",
+        "author": "gmays",
+        "hn_url": "https://news.ycombinator.com/item?id=50123580"
+      },
+      {
+        "source": "Hacker News",
+        "title": "/dev/null: social network for developers",
+        "url": "https://dev-null.sh",
+        "score": 165,
+        "num_comments": 153,
+        "created_at": "2026-10-16T16:57:49",
+        "author": "mnapoli",
+        "hn_url": "https://news.ycombinator.com/item?id=50121004"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "score": 160,
+        "num_comments": 52,
+        "created_at": "2026-10-17T04:36:53",
+        "author": "albinstman",
+        "hn_url": "https://news.ycombinator.com/item?id=50127979"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "score": 158,
+        "num_comments": 33,
+        "created_at": "2026-10-16T18:00:18",
+        "author": "pretext",
+        "hn_url": "https://news.ycombinator.com/item?id=50121939"
+      },
+      {
+        "source": "Hacker News",
+        "title": "C++26: The New Debugging Header",
+        "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+        "score": 101,
+        "num_comments": 27,
+        "created_at": "2026-10-16T18:52:39",
+        "author": "jandeboevrie",
+        "hn_url": "https://news.ycombinator.com/item?id=50122736"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nine-Inch Snails",
+        "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "score": 97,
+        "num_comments": 48,
+        "created_at": "2026-10-16T22:21:05",
+        "author": "zdw",
+        "hn_url": "https://news.ycombinator.com/item?id=50125545"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GifCities",
+        "url": "https://gifcities.org/",
+        "score": 78,
+        "num_comments": 13,
+        "created_at": "2026-10-16T17:35:07",
+        "author": "augury",
+        "hn_url": "https://news.ycombinator.com/item?id=50121601"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "score": 68,
+        "num_comments": 24,
+        "created_at": "2026-10-17T14:01:01",
+        "author": "xbmcuser",
+        "hn_url": "https://news.ycombinator.com/item?id=50131256"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+        "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+        "score": 68,
+        "num_comments": 5,
+        "created_at": "2026-10-16T15:38:28",
+        "author": "michidk",
+        "hn_url": "https://news.ycombinator.com/item?id=50119751"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "published_at": "2026-10-17T13:00:00",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+        "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+        "published_at": "2026-10-17T09:00:00",
+        "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+        "author": "Philip Ball"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "published_at": "2026-10-16T21:22:28",
+        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "author": "Lucas Ropek"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "published_at": "2026-10-16T20:59:01",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+        "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+        "published_at": "2026-10-16T20:05:08",
+        "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+        "author": "Tess Owen, Tim Marchman"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "published_at": "2026-10-16T18:00:00",
+        "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+        "author": "MIT Technology Review"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "published_at": "2026-10-16T17:52:24",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "author": "Aditya Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "published_at": "2026-10-16T16:30:00",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+        "author": "Theresa Loconsolo"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+        "published_at": "2026-10-16T16:30:00",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+        "author": "Theresa Loconsolo, Dominic-Madori Davis"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "published_at": "2026-10-16T16:01:37",
+        "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+        "author": "Aditya Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "published_at": "2026-10-16T15:33:49",
+        "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+        "author": "Russell Brandom"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "published_at": "2026-10-16T15:00:00",
+        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+        "author": "Tom Warren"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+        "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+        "published_at": "2026-10-16T15:00:00",
+        "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+        "author": "Steven Levy"
+      }
+    ]
+  }
+}
