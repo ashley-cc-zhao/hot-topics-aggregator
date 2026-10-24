@@ -1,0 +1,279 @@
+{
+  "timestamp": "2026-10-24T02:50:22.960684",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
+        "score": 766,
+        "num_comments": 517,
+        "created_at": "2026-10-23T16:21:50",
+        "author": "pavel_lishin",
+        "hn_url": "https://news.ycombinator.com/item?id=50211474"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "score": 749,
+        "num_comments": 467,
+        "created_at": "2026-10-23T16:59:08",
+        "author": "Jowsey",
+        "hn_url": "https://news.ycombinator.com/item?id=50212065"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple Music 404 Not Found",
+        "url": "https://music.apple.com/this-url-doesnt-exist",
+        "score": 615,
+        "num_comments": 202,
+        "created_at": "2026-10-23T12:28:47",
+        "author": "frizlab",
+        "hn_url": "https://news.ycombinator.com/item?id=50207910"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "score": 296,
+        "num_comments": 158,
+        "created_at": "2026-10-23T19:34:15",
+        "author": "JustSkyfall",
+        "hn_url": "https://news.ycombinator.com/item?id=50214218"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dessa: the most authentic full-duplex speech model ever built",
+        "url": "https://block.xyz/dessa",
+        "score": 260,
+        "num_comments": 107,
+        "created_at": "2026-10-23T19:09:54",
+        "author": "dsr12",
+        "hn_url": "https://news.ycombinator.com/item?id=50213925"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Job loss and cortisone mania",
+        "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+        "score": 170,
+        "num_comments": 114,
+        "created_at": "2026-10-23T10:31:24",
+        "author": "speckx",
+        "hn_url": "https://news.ycombinator.com/item?id=50206840"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+        "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+        "score": 121,
+        "num_comments": 73,
+        "created_at": "2026-10-23T17:15:03",
+        "author": "skadamat",
+        "hn_url": "https://news.ycombinator.com/item?id=50212320"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "score": 115,
+        "num_comments": 46,
+        "created_at": "2026-10-23T21:21:47",
+        "author": "Group_B",
+        "hn_url": "https://news.ycombinator.com/item?id=50215530"
+      },
+      {
+        "source": "Hacker News",
+        "title": "UUIDv7 doesn't have the properties you think it does",
+        "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+        "score": 114,
+        "num_comments": 99,
+        "created_at": "2026-10-23T16:39:45",
+        "author": "ibobev",
+        "hn_url": "https://news.ycombinator.com/item?id=50211746"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+        "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+        "score": 106,
+        "num_comments": 25,
+        "created_at": "2026-10-23T14:43:02",
+        "author": "armcat",
+        "hn_url": "https://news.ycombinator.com/item?id=50209907"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+        "score": 98,
+        "num_comments": 47,
+        "created_at": "2026-10-23T23:30:17",
+        "author": "cowlevel",
+        "hn_url": "https://news.ycombinator.com/item?id=50216791"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Securing our frontier model training environment",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+        "score": 79,
+        "num_comments": 95,
+        "created_at": "2026-10-23T19:50:56",
+        "author": "pretext",
+        "hn_url": "https://news.ycombinator.com/item?id=50214416"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Air Purifiers as White Noise Machines",
+        "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+        "score": 74,
+        "num_comments": 96,
+        "created_at": "2026-10-23T17:28:36",
+        "author": "luu",
+        "hn_url": "https://news.ycombinator.com/item?id=50212507"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+        "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+        "score": 67,
+        "num_comments": 27,
+        "created_at": "2026-10-23T17:40:22",
+        "author": "scrambled",
+        "hn_url": "https://news.ycombinator.com/item?id=50212668"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Swurf – Swipe through the real web",
+        "url": "https://swurf.org/",
+        "score": 61,
+        "num_comments": 29,
+        "created_at": "2026-10-23T06:54:52",
+        "author": "webtjb096",
+        "hn_url": "https://news.ycombinator.com/item?id=50205320"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Missed Opportunities of Sonic 06 (2025)",
+        "url": "https://isaacmarovitz.com/posts/sonic-06/",
+        "score": 59,
+        "num_comments": 19,
+        "created_at": "2026-10-23T16:38:35",
+        "author": "ibobev",
+        "hn_url": "https://news.ycombinator.com/item?id=50211729"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "published_at": "2026-10-23T23:05:49",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "published_at": "2026-10-23T21:59:19",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "published_at": "2026-10-23T21:11:07",
+        "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+        "published_at": "2026-10-23T19:32:39",
+        "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+        "author": "Jay Peters"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+        "published_at": "2026-10-23T19:06:23",
+        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+        "author": "TechCrunch Events"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "The iPhone Duo should have been an iPad",
+        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+        "published_at": "2026-10-23T17:00:18",
+        "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+        "author": "David Pierce"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "published_at": "2026-10-23T16:52:55",
+        "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+        "author": "Jess Weatherbed"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Meta delays new business terms after publisher pushback on AI scraping",
+        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+        "published_at": "2026-10-23T14:47:41",
+        "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The Download: testing six tech promises and biotech’s blind spots",
+        "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "published_at": "2026-10-23T12:10:00",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+        "author": "Thomas Macaulay"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Retro gaming is being overrun with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "published_at": "2026-10-23T12:00:00",
+        "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+        "author": "Andrew Webster"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "In the biotech world, you can’t see everything",
+        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "published_at": "2026-10-23T09:00:00",
+        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+        "author": "Jessica Hamzelou"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "published_at": "2026-10-23T04:00:00",
+        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "author": "Jagmeet Singh"
+      }
+    ]
+  }
+}
