@@ -1,0 +1,324 @@
+{
+  "timestamp": "2026-11-07T17:15:46.893013",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0",
+        "score": 907,
+        "num_comments": 148,
+        "created_at": "2026-11-06T23:30:52",
+        "author": "mfiguiere",
+        "hn_url": "https://news.ycombinator.com/item?id=50399933"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+        "score": 541,
+        "num_comments": 136,
+        "created_at": "2026-11-06T19:48:51",
+        "author": "theanomaly",
+        "hn_url": "https://news.ycombinator.com/item?id=50397429"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Need for Speed Underground 2 online in the browser",
+        "url": "https://nfsu2.xyz/",
+        "score": 479,
+        "num_comments": 150,
+        "created_at": "2026-11-07T09:36:36",
+        "author": "fluxusars",
+        "hn_url": "https://news.ycombinator.com/item?id=50403052"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+        "score": 404,
+        "num_comments": 232,
+        "created_at": "2026-11-07T09:46:03",
+        "author": "infwhispers",
+        "hn_url": "https://news.ycombinator.com/item?id=50403097"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is dramatically accelerating AI research",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "score": 344,
+        "num_comments": 323,
+        "created_at": "2026-11-06T20:27:23",
+        "author": "yurivish",
+        "hn_url": "https://news.ycombinator.com/item?id=50397994"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Firecracker VM Escape: PwnEscape Part 2",
+        "url": "https://pwn.ai/blog/firecracker-escape",
+        "score": 268,
+        "num_comments": 115,
+        "created_at": "2026-11-06T19:33:38",
+        "author": "SerCe",
+        "hn_url": "https://news.ycombinator.com/item?id=50397219"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Upload Your RAM",
+        "url": "https://uploadyourram.org",
+        "score": 245,
+        "num_comments": 226,
+        "created_at": "2026-11-07T10:15:26",
+        "author": "susanthenerd",
+        "hn_url": "https://news.ycombinator.com/item?id=50403214"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asahi Linux Progress Linux 7.3",
+        "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "score": 235,
+        "num_comments": 195,
+        "created_at": "2026-11-07T05:20:18",
+        "author": "ackyshake",
+        "hn_url": "https://news.ycombinator.com/item?id=50401867"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GitHub's new Git storage architecture",
+        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "score": 202,
+        "num_comments": 56,
+        "created_at": "2026-11-06T19:24:21",
+        "author": "DAlperin",
+        "hn_url": "https://news.ycombinator.com/item?id=50397099"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Devvm.dev: One VM for every project",
+        "url": "https://devvm.dev/",
+        "score": 175,
+        "num_comments": 70,
+        "created_at": "2026-11-06T17:30:22",
+        "author": "luispa",
+        "hn_url": "https://news.ycombinator.com/item?id=50395450"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+        "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+        "score": 164,
+        "num_comments": 146,
+        "created_at": "2026-11-07T04:54:36",
+        "author": "benbreen",
+        "hn_url": "https://news.ycombinator.com/item?id=50401740"
+      },
+      {
+        "source": "Hacker News",
+        "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+        "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+        "score": 161,
+        "num_comments": 123,
+        "created_at": "2026-11-06T23:37:19",
+        "author": "raybb",
+        "hn_url": "https://news.ycombinator.com/item?id=50399991"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Restaurant Delivery Payment-Skimming Campaign",
+        "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+        "score": 160,
+        "num_comments": 87,
+        "created_at": "2026-11-06T19:19:27",
+        "author": "fiej",
+        "hn_url": "https://news.ycombinator.com/item?id=50397017"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Running a law firm on Free software",
+        "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+        "score": 131,
+        "num_comments": 59,
+        "created_at": "2026-11-07T09:39:06",
+        "author": "DeepLogin",
+        "hn_url": "https://news.ycombinator.com/item?id=50403066"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Components of Agent Memory",
+        "url": "https://www.anthropic.com/research/components-of-agent-memory",
+        "score": 110,
+        "num_comments": 62,
+        "created_at": "2026-11-07T06:39:04",
+        "author": "geoffbp",
+        "hn_url": "https://news.ycombinator.com/item?id=50402212"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The $8 Linux Computer (2022)",
+        "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+        "score": 102,
+        "num_comments": 43,
+        "created_at": "2026-11-07T14:00:20",
+        "author": "zenincognito",
+        "hn_url": "https://news.ycombinator.com/item?id=50404599"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "published_at": "2026-11-07T15:50:00",
+        "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+        "author": "Jennifer Pattison Tuohy"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "published_at": "2026-11-07T15:43:45",
+        "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+        "author": "Terrence O’Brien"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "published_at": "2026-11-07T15:00:00",
+        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+        "author": "Nilay Patel"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "published_at": "2026-11-07T12:30:00",
+        "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+        "author": "Robert Hart"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+        "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+        "published_at": "2026-11-07T11:00:00",
+        "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+        "author": "Jaclyn Greenberg"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "published_at": "2026-11-07T01:40:28",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "author": "Marina Temkin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "published_at": "2026-11-06T23:46:18",
+        "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+        "published_at": "2026-11-06T23:00:44",
+        "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+        "author": "Jay Peters"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "published_at": "2026-11-06T22:53:46",
+        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "author": "Lucas Ropek"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+        "published_at": "2026-11-06T20:56:41",
+        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "All the latest updates on AI data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "published_at": "2026-11-06T20:02:22",
+        "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+        "author": "Justine Calma"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "published_at": "2026-11-06T18:44:38",
+        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "author": "Zack Whittaker"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "published_at": "2026-11-06T18:44:20",
+        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "author": "Lucas Ropek"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+        "published_at": "2026-11-06T18:43:43",
+        "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+        "author": "Will Knight, Lily Hay Newman"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+        "published_at": "2026-11-06T18:10:10",
+        "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+        "published_at": "2026-11-06T18:00:00",
+        "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+        "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "published_at": "2026-11-06T17:23:52",
+        "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+        "author": "Theresa Loconsolo, Anthony Ha"
+      }
+    ]
+  }
+}
