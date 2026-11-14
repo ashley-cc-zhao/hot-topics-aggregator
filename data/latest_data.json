@@ -1,0 +1,561 @@
+{
+  "timestamp": "2026-11-14T04:29:09.901057",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "score": 1413,
+        "num_comments": 1091,
+        "created_at": "2026-11-13T21:05:53",
+        "author": "zulln",
+        "hn_url": "https://news.ycombinator.com/item?id=50489641"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "score": 488,
+        "num_comments": 383,
+        "created_at": "2026-11-13T10:18:13",
+        "author": "__vivek",
+        "hn_url": "https://news.ycombinator.com/item?id=50481187"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+        "score": 466,
+        "num_comments": 320,
+        "created_at": "2026-11-13T12:10:24",
+        "author": "voxleone",
+        "hn_url": "https://news.ycombinator.com/item?id=50482379"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "score": 351,
+        "num_comments": 95,
+        "created_at": "2026-11-13T17:30:10",
+        "author": "bookofjoe",
+        "hn_url": "https://news.ycombinator.com/item?id=50486748"
+      },
+      {
+        "source": "Hacker News",
+        "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+        "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+        "score": 319,
+        "num_comments": 161,
+        "created_at": "2026-11-13T18:18:37",
+        "author": "BobaFloutist",
+        "hn_url": "https://news.ycombinator.com/item?id=50487522"
+      },
+      {
+        "source": "Hacker News",
+        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+        "score": 315,
+        "num_comments": 175,
+        "created_at": "2026-11-13T18:40:44",
+        "author": "crescit_eundo",
+        "hn_url": "https://news.ycombinator.com/item?id=50487864"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
+        "score": 233,
+        "num_comments": 54,
+        "created_at": "2026-11-13T22:04:24",
+        "author": "mmaunder",
+        "hn_url": "https://news.ycombinator.com/item?id=50490593"
+      },
+      {
+        "source": "Hacker News",
+        "title": "After 600 experiments, here's what I discovered about JEPA world models",
+        "url": "https://haddyalchaer.com/jepa",
+        "score": 226,
+        "num_comments": 37,
+        "created_at": "2026-11-13T17:55:28",
+        "author": "halcdev",
+        "hn_url": "https://news.ycombinator.com/item?id=50487185"
+      },
+      {
+        "source": "Hacker News",
+        "title": "FM-1 Workbench",
+        "url": "https://open.m-vave.com/fm1-workbench",
+        "score": 195,
+        "num_comments": 136,
+        "created_at": "2026-11-13T19:14:02",
+        "author": "simonebrunozzi",
+        "hn_url": "https://news.ycombinator.com/item?id=50488325"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A technical vision for the Haskell ecosystem",
+        "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "score": 187,
+        "num_comments": 104,
+        "created_at": "2026-11-13T14:43:12",
+        "author": "cosmic_quanta",
+        "hn_url": "https://news.ycombinator.com/item?id=50484235"
+      },
+      {
+        "source": "Hacker News",
+        "title": "All US airports are currently ground stopped",
+        "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+        "score": 180,
+        "num_comments": 33,
+        "created_at": "2026-11-13T21:06:52",
+        "author": "defly",
+        "hn_url": "https://news.ycombinator.com/item?id=50489652"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "url": "https://isometricsf.com/",
+        "score": 172,
+        "num_comments": 67,
+        "created_at": "2026-11-13T17:58:37",
+        "author": "juscha1",
+        "hn_url": "https://news.ycombinator.com/item?id=50487228"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "score": 164,
+        "num_comments": 146,
+        "created_at": "2026-11-13T15:08:44",
+        "author": "helloplanets",
+        "hn_url": "https://news.ycombinator.com/item?id=50484658"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+        "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+        "score": 152,
+        "num_comments": 91,
+        "created_at": "2026-11-13T15:08:07",
+        "author": "bookofjoe",
+        "hn_url": "https://news.ycombinator.com/item?id=50484650"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Found: A protein that drives ageing without unleashing inflammation",
+        "url": "https://www.nature.com/articles/d41586-026-03638-3",
+        "score": 151,
+        "num_comments": 23,
+        "created_at": "2026-11-13T19:25:21",
+        "author": "gumby",
+        "hn_url": "https://news.ycombinator.com/item?id=50488470"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI disbands its robotics team as its general models start running robots",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "score": 151,
+        "num_comments": 64,
+        "created_at": "2026-11-13T17:55:23",
+        "author": "sshah03",
+        "hn_url": "https://news.ycombinator.com/item?id=50487184"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+        "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+        "score": 147,
+        "num_comments": 46,
+        "created_at": "2026-11-13T18:29:16",
+        "author": "nephihaha",
+        "hn_url": "https://news.ycombinator.com/item?id=50487688"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/",
+        "score": 144,
+        "num_comments": 65,
+        "created_at": "2026-11-13T23:06:40",
+        "author": "vinhnx",
+        "hn_url": "https://news.ycombinator.com/item?id=50491423"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Dawn of the Data Intelligence Engineer",
+        "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+        "score": 140,
+        "num_comments": 77,
+        "created_at": "2026-11-13T09:08:18",
+        "author": "jonbaer",
+        "hn_url": "https://news.ycombinator.com/item?id=50480480"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "score": 138,
+        "num_comments": 43,
+        "created_at": "2026-11-14T00:52:29",
+        "author": "snow_mac",
+        "hn_url": "https://news.ycombinator.com/item?id=50492315"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Weight Space Misfolding",
+        "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+        "score": 137,
+        "num_comments": 49,
+        "created_at": "2026-11-13T18:33:35",
+        "author": "mkglees",
+        "hn_url": "https://news.ycombinator.com/item?id=50487762"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+        "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "score": 135,
+        "num_comments": 39,
+        "created_at": "2026-11-13T14:28:40",
+        "author": "ortuman",
+        "hn_url": "https://news.ycombinator.com/item?id=50484007"
+      },
+      {
+        "source": "Hacker News",
+        "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+        "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+        "score": 120,
+        "num_comments": 36,
+        "created_at": "2026-11-13T21:08:49",
+        "author": "owenshen24",
+        "hn_url": "https://news.ycombinator.com/item?id=50489678"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "score": 107,
+        "num_comments": 21,
+        "created_at": "2026-11-13T19:24:47",
+        "author": "gmays",
+        "hn_url": "https://news.ycombinator.com/item?id=50488464"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apify Security Incident",
+        "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+        "score": 94,
+        "num_comments": 10,
+        "created_at": "2026-11-13T16:55:59",
+        "author": "cynicalpeace",
+        "hn_url": "https://news.ycombinator.com/item?id=50486258"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "score": 86,
+        "num_comments": 36,
+        "created_at": "2026-11-14T02:52:59",
+        "author": "speckx",
+        "hn_url": "https://news.ycombinator.com/item?id=50493251"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What Happened to 3Com?",
+        "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "score": 83,
+        "num_comments": 47,
+        "created_at": "2026-11-13T23:48:59",
+        "author": "gvieri",
+        "hn_url": "https://news.ycombinator.com/item?id=50491830"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Live-migration support in FreeBSD and bhyve coming",
+        "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+        "score": 80,
+        "num_comments": 20,
+        "created_at": "2026-11-13T19:58:42",
+        "author": "JohnDohnBohn",
+        "hn_url": "https://news.ycombinator.com/item?id=50488835"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Claude Meetings",
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "score": 79,
+        "num_comments": 65,
+        "created_at": "2026-11-13T22:39:15",
+        "author": "hmokiguess",
+        "hn_url": "https://news.ycombinator.com/item?id=50491097"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+        "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+        "score": 79,
+        "num_comments": 8,
+        "created_at": "2026-11-13T14:25:46",
+        "author": "marc__1",
+        "hn_url": "https://news.ycombinator.com/item?id=50483959"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+        "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+        "score": 73,
+        "num_comments": 14,
+        "created_at": "2026-11-14T02:02:42",
+        "author": "gmays",
+        "hn_url": "https://news.ycombinator.com/item?id=50492860"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+        "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+        "score": 73,
+        "num_comments": 32,
+        "created_at": "2026-11-13T18:23:49",
+        "author": "dethmasque",
+        "hn_url": "https://news.ycombinator.com/item?id=50487605"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+        "url": "https://grounds.top/",
+        "score": 72,
+        "num_comments": 10,
+        "created_at": "2026-11-13T23:17:39",
+        "author": "gvsi",
+        "hn_url": "https://news.ycombinator.com/item?id=50491545"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "score": 69,
+        "num_comments": 8,
+        "created_at": "2026-11-14T02:28:29",
+        "author": "cobychapple",
+        "hn_url": "https://news.ycombinator.com/item?id=50493062"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+        "score": 69,
+        "num_comments": 22,
+        "created_at": "2026-11-14T02:21:36",
+        "author": "LopRabbit",
+        "hn_url": "https://news.ycombinator.com/item?id=50492993"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "score": 67,
+        "num_comments": 62,
+        "created_at": "2026-11-14T00:28:11",
+        "author": "toppa33",
+        "hn_url": "https://news.ycombinator.com/item?id=50492141"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Not to Build a Music Player",
+        "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+        "score": 50,
+        "num_comments": 21,
+        "created_at": "2026-11-13T23:04:30",
+        "author": "vinhnx",
+        "hn_url": "https://news.ycombinator.com/item?id=50491400"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "published_at": "2026-11-13T23:49:11",
+        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "published_at": "2026-11-13T22:43:00",
+        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "author": "Marina Temkin, Dominic-Madori Davis"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "published_at": "2026-11-13T20:45:10",
+        "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+        "author": "Stevie Bonifield"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "published_at": "2026-11-13T19:37:57",
+        "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+        "author": "Julie Bort"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+        "published_at": "2026-11-13T19:08:57",
+        "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+        "author": "Andrew Couts"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "published_at": "2026-11-13T18:40:30",
+        "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+        "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+        "published_at": "2026-11-13T16:26:32",
+        "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "published_at": "2026-11-13T16:00:12",
+        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "author": "Sarah Perez"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Jensen Huang and the End of the Founder Fairy Tale",
+        "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+        "published_at": "2026-11-13T16:00:00",
+        "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+        "author": "Lauren Goode"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "published_at": "2026-11-13T15:58:00",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "author": "Amanda Silberling"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "What&#8217;s really at stake in the Jensen Huang saga",
+        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "published_at": "2026-11-13T14:47:16",
+        "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+        "author": "David Pierce"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "published_at": "2026-11-13T14:44:48",
+        "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+        "author": "Ivan Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "published_at": "2026-11-13T14:00:00",
+        "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+        "author": "Allison Johnson"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+        "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+        "published_at": "2026-11-13T13:10:00",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
+        "author": "Thomas Macaulay"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "published_at": "2026-11-13T12:52:19",
+        "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+        "author": "Anna Heim"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "published_at": "2026-11-13T12:28:23",
+        "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+        "author": "Ivan Mehta"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+        "published_at": "2026-11-13T12:00:00",
+        "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+        "author": "Elizabeth Lopatto"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "published_at": "2026-11-13T11:45:00",
+        "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+        "author": "Jason Parham"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+        "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+        "published_at": "2026-11-13T10:00:00",
+        "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+        "author": "Jessica Hamzelou"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+        "published_at": "2026-11-13T10:00:00",
+        "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
+        "author": "Aaron Zamost"
+      }
+    ]
+  }
+}
