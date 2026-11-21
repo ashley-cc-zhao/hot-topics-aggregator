@@ -1,0 +1,454 @@
+{
+  "timestamp": "2026-11-21T05:07:15.347749",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "score": 2471,
+        "num_comments": 1664,
+        "created_at": "2026-11-20T14:16:21",
+        "author": "iamronaldo",
+        "hn_url": "https://news.ycombinator.com/item?id=50574968"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "score": 1777,
+        "num_comments": 796,
+        "created_at": "2026-11-20T18:33:14",
+        "author": "jasondavies",
+        "hn_url": "https://news.ycombinator.com/item?id=50579568"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "score": 834,
+        "num_comments": 144,
+        "created_at": "2026-11-20T20:12:19",
+        "author": "jasondavies",
+        "hn_url": "https://news.ycombinator.com/item?id=50581260"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "score": 779,
+        "num_comments": 561,
+        "created_at": "2026-11-20T16:06:30",
+        "author": "unchar1",
+        "hn_url": "https://news.ycombinator.com/item?id=50576855"
+      },
+      {
+        "source": "Hacker News",
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "score": 643,
+        "num_comments": 303,
+        "created_at": "2026-11-20T09:43:19",
+        "author": "sammatilda",
+        "hn_url": "https://news.ycombinator.com/item?id=50572355"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "score": 635,
+        "num_comments": 332,
+        "created_at": "2026-11-20T10:01:41",
+        "author": "shioyama",
+        "hn_url": "https://news.ycombinator.com/item?id=50572503"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "score": 533,
+        "num_comments": 313,
+        "created_at": "2026-11-20T09:42:16",
+        "author": "dotcoma",
+        "hn_url": "https://news.ycombinator.com/item?id=50572348"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "score": 385,
+        "num_comments": 154,
+        "created_at": "2026-11-20T17:21:36",
+        "author": "archon1410",
+        "hn_url": "https://news.ycombinator.com/item?id=50578358"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "score": 367,
+        "num_comments": 115,
+        "created_at": "2026-11-20T16:29:06",
+        "author": "lwhsiao",
+        "hn_url": "https://news.ycombinator.com/item?id=50577265"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "score": 349,
+        "num_comments": 210,
+        "created_at": "2026-11-20T18:17:51",
+        "author": "QueensGambit",
+        "hn_url": "https://news.ycombinator.com/item?id=50579331"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why there are still no non-WebKit browsers on iOS",
+        "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+        "score": 338,
+        "num_comments": 204,
+        "created_at": "2026-11-20T15:03:31",
+        "author": "lapcat",
+        "hn_url": "https://news.ycombinator.com/item?id=50575644"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Finite-time blow-up for the Navier–Stokes equations",
+        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+        "score": 269,
+        "num_comments": 86,
+        "created_at": "2026-11-20T15:34:31",
+        "author": "trotro",
+        "hn_url": "https://news.ycombinator.com/item?id=50576232"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+        "score": 266,
+        "num_comments": 143,
+        "created_at": "2026-11-20T20:22:41",
+        "author": "ftchd",
+        "hn_url": "https://news.ycombinator.com/item?id=50581438"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+        "url": "https://scottaaronson.blog/?p=10344",
+        "score": 251,
+        "num_comments": 226,
+        "created_at": "2026-11-20T20:03:07",
+        "author": "stratos123",
+        "hn_url": "https://news.ycombinator.com/item?id=50581084"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Making of Oxygene",
+        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+        "score": 203,
+        "num_comments": 75,
+        "created_at": "2026-11-20T10:41:10",
+        "author": "hggh",
+        "hn_url": "https://news.ycombinator.com/item?id=50572822"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Re: Riemann",
+        "url": "https://borretti.me/article/re-riemann",
+        "score": 183,
+        "num_comments": 178,
+        "created_at": "2026-11-20T23:42:44",
+        "author": "_dain_",
+        "hn_url": "https://news.ycombinator.com/item?id=50583982"
+      },
+      {
+        "source": "Hacker News",
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "score": 181,
+        "num_comments": 43,
+        "created_at": "2026-11-20T22:30:47",
+        "author": "CharlesW",
+        "hn_url": "https://news.ycombinator.com/item?id=50583274"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What people are building, discovered through new domains",
+        "url": "https://startups.novumsignals.com/",
+        "score": 157,
+        "num_comments": 74,
+        "created_at": "2026-11-20T09:54:33",
+        "author": "walterschnitzel",
+        "hn_url": "https://news.ycombinator.com/item?id=50572448"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+        "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+        "score": 152,
+        "num_comments": 29,
+        "created_at": "2026-11-20T20:03:59",
+        "author": "facundo_olano",
+        "hn_url": "https://news.ycombinator.com/item?id=50581110"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Vibecoding an inference chip",
+        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "score": 128,
+        "num_comments": 49,
+        "created_at": "2026-11-20T18:15:16",
+        "author": "ankitvgupta",
+        "hn_url": "https://news.ycombinator.com/item?id=50579297"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Slopstrap – Make your site look hastily vibecoded",
+        "url": "https://slopstrap.mikelacher.com/",
+        "score": 128,
+        "num_comments": 25,
+        "created_at": "2026-11-20T15:24:11",
+        "author": "mlacher",
+        "hn_url": "https://news.ycombinator.com/item?id=50576012"
+      },
+      {
+        "source": "Hacker News",
+        "title": "And yet, it moves",
+        "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+        "score": 120,
+        "num_comments": 61,
+        "created_at": "2026-11-20T20:07:55",
+        "author": "notfried",
+        "hn_url": "https://news.ycombinator.com/item?id=50581177"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Winedroid – run Android apps without Android (WASM demo)",
+        "url": "https://winedroid.soham.sh/demo/",
+        "score": 118,
+        "num_comments": 36,
+        "created_at": "2026-11-20T19:30:16",
+        "author": "sohzm",
+        "hn_url": "https://news.ycombinator.com/item?id=50580536"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+        "url": "https://news.ycombinator.com/item?id=50577613",
+        "score": 105,
+        "num_comments": 148,
+        "created_at": "2026-11-20T16:45:25",
+        "author": "proberts",
+        "hn_url": "https://news.ycombinator.com/item?id=50577613"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: OpenComputer – an open source alternative to Devin",
+        "url": "https://github.com/diggerhq/opencomputer",
+        "score": 83,
+        "num_comments": 24,
+        "created_at": "2026-11-20T20:19:56",
+        "author": "iacguy",
+        "hn_url": "https://news.ycombinator.com/item?id=50581403"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is giving everyone the same advice",
+        "url": "https://a90.com/experiments/same-advice/",
+        "score": 70,
+        "num_comments": 27,
+        "created_at": "2026-11-20T16:58:05",
+        "author": "amin",
+        "hn_url": "https://news.ycombinator.com/item?id=50577872"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sir Brian May adds new dimension to Hera asteroid",
+        "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+        "score": 67,
+        "num_comments": 14,
+        "created_at": "2026-11-20T23:19:44",
+        "author": "mooreds",
+        "hn_url": "https://news.ycombinator.com/item?id=50583768"
+      },
+      {
+        "source": "Hacker News",
+        "title": "BlackBlaze now explicitly states selling your data for advertisement",
+        "url": "https://www.backblaze.com/company/policy/privacy",
+        "score": 62,
+        "num_comments": 8,
+        "created_at": "2026-11-21T03:23:16",
+        "author": "meysamazad",
+        "hn_url": "https://news.ycombinator.com/item?id=50585593"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+        "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+        "score": 57,
+        "num_comments": 0,
+        "created_at": "2026-11-20T17:14:03",
+        "author": "khalidkhair",
+        "hn_url": "https://news.ycombinator.com/item?id=50578233"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+        "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+        "published_at": "2026-11-20T23:24:02",
+        "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+        "author": "Miles Klee"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Ars Technica",
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "published_at": "2026-11-20T20:59:08",
+        "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "author": "Dan Goodin"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "published_at": "2026-11-20T19:53:41",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "author": "Tim De Chant"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+        "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+        "published_at": "2026-11-20T19:52:21",
+        "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+        "author": "Lauren Goode, Paresh Dave"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "published_at": "2026-11-20T19:32:08",
+        "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "published_at": "2026-11-20T18:50:19",
+        "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+        "author": "Lauren Feiner"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "published_at": "2026-11-20T18:15:15",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
+        "author": "Grace Huckins"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Chips can survive the space environment — can their financing?",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "published_at": "2026-11-20T17:40:01",
+        "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "author": "Tim Fernholz"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "published_at": "2026-11-20T16:34:13",
+        "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+        "author": "Emma Roth"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+        "published_at": "2026-11-20T14:55:44",
+        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+        "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "The week everything fell apart",
+        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+        "published_at": "2026-11-20T14:06:59",
+        "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
+        "author": "David Pierce"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "TechCrunch AI",
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "published_at": "2026-11-20T14:00:00",
+        "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+        "author": "Lauren Forristal"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The Download: inside the quest to make our minds immortal",
+        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+        "published_at": "2026-11-20T13:10:00",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…",
+        "author": "Thomas Macaulay"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "published_at": "2026-11-20T12:30:47",
+        "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+        "author": "Jess Weatherbed"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+        "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+        "published_at": "2026-11-20T12:00:00",
+        "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+        "author": "Jason Parham"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "Regular Tech Bros Are Worried About Honeypots",
+        "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+        "published_at": "2026-11-20T11:00:00",
+        "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+        "author": "Kate Taylor, Caroline Haskins"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+        "published_at": "2026-11-20T07:00:00",
+        "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+        "author": "Joel Khalili"
+      }
+    ]
+  }
+}
