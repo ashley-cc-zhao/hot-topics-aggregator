@@ -1,0 +1,316 @@
+{
+  "timestamp": "2026-11-28T05:50:33.842953",
+  "data": {
+    "reddit": [],
+    "hackernews": [
+      {
+        "source": "Hacker News",
+        "title": "Group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "score": 696,
+        "num_comments": 288,
+        "created_at": "2026-11-27T06:44:34",
+        "author": "utiiiD",
+        "hn_url": "https://news.ycombinator.com/item?id=50663595"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Claude sabotaging ML research tasks?",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "score": 654,
+        "num_comments": 303,
+        "created_at": "2026-11-27T08:28:08",
+        "author": "baobabKoodaa",
+        "hn_url": "https://news.ycombinator.com/item?id=50664325"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "score": 484,
+        "num_comments": 250,
+        "created_at": "2026-11-27T15:40:31",
+        "author": "scanr",
+        "hn_url": "https://news.ycombinator.com/item?id=50668145"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Michael Nielsen took down his book on neural nets",
+        "url": "https://neuralnetworksanddeeplearning.com/",
+        "score": 463,
+        "num_comments": 288,
+        "created_at": "2026-11-27T19:31:01",
+        "author": "brandonb",
+        "hn_url": "https://news.ycombinator.com/item?id=50670757"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com/",
+        "score": 349,
+        "num_comments": 116,
+        "created_at": "2026-11-27T15:01:50",
+        "author": "mday404",
+        "hn_url": "https://news.ycombinator.com/item?id=50667726"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US Air Force's cloud computing platform hacked",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+        "score": 338,
+        "num_comments": 209,
+        "created_at": "2026-11-27T12:54:11",
+        "author": "freakynit",
+        "hn_url": "https://news.ycombinator.com/item?id=50666375"
+      },
+      {
+        "source": "Hacker News",
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "score": 331,
+        "num_comments": 186,
+        "created_at": "2026-11-27T19:42:25",
+        "author": "DeepLogin",
+        "hn_url": "https://news.ycombinator.com/item?id=50670855"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "score": 272,
+        "num_comments": 94,
+        "created_at": "2026-11-27T23:06:29",
+        "author": "ComputedCamp995",
+        "hn_url": "https://news.ycombinator.com/item?id=50672565"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "score": 266,
+        "num_comments": 87,
+        "created_at": "2026-11-27T18:02:45",
+        "author": "MickyTheMouse",
+        "hn_url": "https://news.ycombinator.com/item?id=50669765"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+        "url": "https://eprint.iacr.org/2026/3020.pdf",
+        "score": 208,
+        "num_comments": 91,
+        "created_at": "2026-11-27T12:08:51",
+        "author": "yuvadam",
+        "hn_url": "https://news.ycombinator.com/item?id=50665968"
+      },
+      {
+        "source": "Hacker News",
+        "title": "False computer-checked proofs",
+        "url": "https://cr.yp.to/proofs/falseccp.html",
+        "score": 205,
+        "num_comments": 80,
+        "created_at": "2026-11-27T15:26:09",
+        "author": "_tk_",
+        "hn_url": "https://news.ycombinator.com/item?id=50667989"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+        "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+        "score": 173,
+        "num_comments": 101,
+        "created_at": "2026-11-27T20:25:15",
+        "author": "Lio",
+        "hn_url": "https://news.ycombinator.com/item?id=50671301"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Atari Homebrew Awards Cancelled",
+        "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+        "score": 148,
+        "num_comments": 147,
+        "created_at": "2026-11-28T02:03:25",
+        "author": "bpierre",
+        "hn_url": "https://news.ycombinator.com/item?id=50673688"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "score": 134,
+        "num_comments": 105,
+        "created_at": "2026-11-28T01:32:56",
+        "author": "Tiwariparth6165",
+        "hn_url": "https://news.ycombinator.com/item?id=50673521"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: DragDropMath – Learn math by feel",
+        "url": "https://dragdropmath.com/",
+        "score": 118,
+        "num_comments": 36,
+        "created_at": "2026-11-27T17:56:28",
+        "author": "ziofill",
+        "hn_url": "https://news.ycombinator.com/item?id=50669673"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Making a 3D fantasy map like a 16th-Century atlas",
+        "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+        "score": 111,
+        "num_comments": 14,
+        "created_at": "2026-11-27T14:02:52",
+        "author": "HugoDz",
+        "hn_url": "https://news.ycombinator.com/item?id=50667062"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Rayshader 1.0: Exit the Matrix",
+        "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+        "score": 103,
+        "num_comments": 13,
+        "created_at": "2026-11-27T14:30:20",
+        "author": "tylermw",
+        "hn_url": "https://news.ycombinator.com/item?id=50667371"
+      },
+      {
+        "source": "Hacker News",
+        "title": "9/UX: a Macintosh-inspired desktop for 9front",
+        "url": "https://progrium.github.io/9ux/",
+        "score": 96,
+        "num_comments": 24,
+        "created_at": "2026-11-27T21:48:14",
+        "author": "rbanffy",
+        "hn_url": "https://news.ycombinator.com/item?id=50672008"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev",
+        "score": 92,
+        "num_comments": 7,
+        "created_at": "2026-11-28T03:19:20",
+        "author": "nreece",
+        "hn_url": "https://news.ycombinator.com/item?id=50674218"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Source Control from Hell",
+        "url": "https://frantic.im/git/",
+        "score": 82,
+        "num_comments": 60,
+        "created_at": "2026-11-27T22:06:44",
+        "author": "emschwartz",
+        "hn_url": "https://news.ycombinator.com/item?id=50672142"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+        "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+        "score": 77,
+        "num_comments": 27,
+        "created_at": "2026-11-27T14:37:02",
+        "author": "codepoet80",
+        "hn_url": "https://news.ycombinator.com/item?id=50667452"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Scrapheap America",
+        "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+        "score": 76,
+        "num_comments": 48,
+        "created_at": "2026-11-27T18:50:26",
+        "author": "only_in_america",
+        "hn_url": "https://news.ycombinator.com/item?id=50670340"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AT&T Unix PC (3B1) VM",
+        "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+        "score": 74,
+        "num_comments": 13,
+        "created_at": "2026-11-27T19:40:33",
+        "author": "ok123456",
+        "hn_url": "https://news.ycombinator.com/item?id=50670841"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+        "url": "https://tabernet.es/",
+        "score": 71,
+        "num_comments": 30,
+        "created_at": "2026-11-27T23:00:30",
+        "author": "mmcclure",
+        "hn_url": "https://news.ycombinator.com/item?id=50672521"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+        "score": 52,
+        "num_comments": 11,
+        "created_at": "2026-11-27T18:59:55",
+        "author": "runtimenotes",
+        "hn_url": "https://news.ycombinator.com/item?id=50670443"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "url": "https://github.com/skeeto/prospero",
+        "score": 51,
+        "num_comments": 13,
+        "created_at": "2026-11-27T20:23:14",
+        "author": "ingve",
+        "hn_url": "https://news.ycombinator.com/item?id=50671275"
+      }
+    ],
+    "youtube": [],
+    "rss": [
+      {
+        "source": "RSS Feed",
+        "feed_name": "The Verge AI",
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "published_at": "2026-11-27T14:00:00",
+        "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+        "author": "Allison Johnson"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+        "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+        "published_at": "2026-11-27T13:00:00",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.…",
+        "author": "Thomas Macaulay"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "Our 2027 Innovators Under 35 competition is now open",
+        "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+        "published_at": "2026-11-27T10:48:47",
+        "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.  We’re on the hunt for researchers and founders who are engineering solutions to some of…",
+        "author": "Amy Nordrum"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "MIT Technology Review",
+        "title": "How cutting-edge prosthetics can help probe the human mind",
+        "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+        "published_at": "2026-11-27T10:00:00",
+        "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
+        "author": "Jessica Hamzelou"
+      },
+      {
+        "source": "RSS Feed",
+        "feed_name": "Wired AI",
+        "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+        "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+        "published_at": "2026-11-27T07:00:00",
+        "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+        "author": "Joel Khalili"
+      }
+    ]
+  }
+}
